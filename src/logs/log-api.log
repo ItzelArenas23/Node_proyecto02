@@ -1,0 +1,151 @@
+[2023-06-26T21:07:59.599Z] info Illegal arguments: undefined, string undefined:undefined
+[2023-06-26T21:09:21.009Z] info Illegal arguments: undefined, string undefined:undefined
+[2023-06-26T21:16:48.975Z] info Illegal arguments: undefined, string undefined:undefined
+[2023-06-26T21:28:03.881Z] info secretOrPrivateKey must have a value undefined:undefined
+[2023-06-26T21:41:17.548Z] info Validation error undefined:undefined
+[2023-06-26T21:49:08.790Z] info secretOrPrivateKey must have a value undefined:undefined
+[2023-06-26T21:53:33.128Z] info Validation error undefined:undefined
+[2023-06-26T21:55:37.274Z] info secretOrPrivateKey must have a value undefined:undefined
+[2023-06-26T22:16:43.212Z] info secretOrPrivateKey must have a value undefined:undefined
+[2023-06-26T22:17:59.605Z] info Validation error undefined:undefined
+[2023-06-26T22:20:29.827Z] info "expiresIn" should be a number of seconds or string representing a timespan undefined:undefined
+[2023-06-26T22:22:35.537Z] info Validation error undefined:undefined
+[2023-06-26T22:23:03.419Z] info "expiresIn" should be a number of seconds or string representing a timespan undefined:undefined
+[2023-06-26T22:24:45.819Z] info "expiresIn" should be a number of seconds or string representing a timespan undefined:undefined
+[2023-06-26T22:25:31.760Z] info "expiresIn" should be a number of seconds or string representing a timespan undefined:undefined
+[2023-06-26T22:39:47.265Z] info "expiresIn" should be a number of seconds or string representing a timespan undefined:undefined
+[2023-06-26T22:40:12.983Z] info "expiresIn" should be a number of seconds or string representing a timespan undefined:undefined
+[2023-06-26T22:46:36.983Z] info "expiresIn" should be a number of seconds or string representing a timespan undefined:undefined
+[2023-06-27T01:08:59.574Z] info Validation error undefined:undefined
+[2023-06-27T23:25:37.530Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-06-27T23:26:03.611Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-06-27T23:26:10.470Z] info You do not have permission to perform this action! undefined:undefined
+[2023-06-28T23:24:50.536Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-06-28T23:25:35.432Z] info You do not have permission to perform this action! undefined:undefined
+[2023-06-28T23:54:54.251Z] info  the Restaurant with the id: 10 dont exist  undefined:undefined
+[2023-06-29T00:10:05.860Z] info The owner of this token it not longer available undefined:undefined
+[2023-06-29T00:10:58.105Z] info  the Restaurant with the id: 10 dont exist  undefined:undefined
+[2023-06-29T00:14:55.283Z] info AppError is not defined undefined:undefined
+[2023-06-29T00:17:12.252Z] info AppError is not defined undefined:undefined
+[2023-06-29T00:17:23.886Z] info AppError is not defined undefined:undefined
+[2023-06-29T00:18:23.356Z] info Cant find /api/v1/meals/ on this server! undefined:undefined
+[2023-06-29T00:18:54.743Z] info Cant find /api/v1/meals on this server! undefined:undefined
+[2023-06-29T00:20:01.571Z] info notNull Violation: meals.restaurantId cannot be null undefined:undefined
+[2023-06-29T00:22:15.530Z] info notNull Violation: meals.restaurantId cannot be null undefined:undefined
+[2023-06-29T00:24:34.056Z] info notNull Violation: meals.restaurantId cannot be null undefined:undefined
+[2023-06-29T00:28:02.346Z] info notNull Violation: meals.restaurantId cannot be null undefined:undefined
+[2023-06-29T00:38:08.571Z] info notNull Violation: meals.restaurantId cannot be null undefined:undefined
+[2023-06-29T00:58:47.335Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-06-29T00:59:00.383Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-29T00:59:13.286Z] info Cant find /api/v1/restaurants/reviews/1/1 on this server! undefined:undefined
+[2023-06-29T00:59:40.240Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-29T01:00:23.670Z] info id is not defined undefined:undefined
+[2023-06-29T01:00:31.825Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-29T01:00:56.278Z] info Cant find /api/v1/restaurants/reviews/1/1 on this server! undefined:undefined
+[2023-06-29T01:01:44.952Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-29T01:06:38.272Z] info id is not defined undefined:undefined
+[2023-06-29T01:06:57.536Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-29T01:15:47.650Z] info id is not defined undefined:undefined
+[2023-06-29T01:20:00.754Z] info id is not defined undefined:undefined
+[2023-06-29T01:21:05.334Z] info id is not defined undefined:undefined
+[2023-06-29T01:21:17.649Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-29T01:22:31.206Z] info  the Restaurant with the id: 3 dont exist  undefined:undefined
+[2023-06-29T01:22:50.583Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-29T01:37:13.800Z] info Validation error undefined:undefined
+[2023-06-29T01:55:09.265Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-29T01:57:56.996Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-29T02:26:19.656Z] info jwt expired undefined:undefined
+[2023-06-29T02:26:56.853Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-29T03:36:20.243Z] info user with the email andres@gmail.com not found  undefined:undefined
+[2023-06-29T03:49:04.817Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-06-29T03:49:38.385Z] info notNull Violation: orders.totalPrice cannot be null undefined:undefined
+[2023-06-29T03:51:16.856Z] info notNull Violation: orders.totalPrice cannot be null undefined:undefined
+[2023-06-29T03:54:23.868Z] info notNull Violation: orders.totalPrice cannot be null undefined:undefined
+[2023-06-29T03:56:07.639Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-06-29T03:56:13.109Z] info Cant find /api/v1/orders/ on this server! undefined:undefined
+[2023-06-29T03:56:18.183Z] info Cant find /api/v1/orders/1 on this server! undefined:undefined
+[2023-06-29T03:57:16.057Z] info Cant find /api/v1/orders/1 on this server! undefined:undefined
+[2023-06-29T03:57:28.727Z] info Cant find /api/v1/orders/ on this server! undefined:undefined
+[2023-06-30T01:08:03.212Z] info jwt expired undefined:undefined
+[2023-06-30T01:25:51.694Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T01:26:08.467Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T01:28:58.300Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T01:29:54.699Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T01:29:59.225Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T01:30:05.990Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T01:34:31.638Z] info WHERE parameter "id" has invalid "undefined" value undefined:undefined
+[2023-06-30T01:34:55.444Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T01:36:20.778Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T01:41:22.824Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T02:20:08.425Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T02:43:35.027Z] info WHERE parameter "id" has invalid "undefined" value undefined:undefined
+[2023-06-30T02:45:33.690Z] info WHERE parameter "id" has invalid "undefined" value undefined:undefined
+[2023-06-30T02:45:41.884Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T02:46:34.449Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T02:46:52.504Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T02:49:15.086Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T02:57:15.924Z] info Cant find /api/v1/meals/2 on this server! undefined:undefined
+[2023-06-30T02:57:29.913Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T02:57:55.946Z] info Cant find /api/v1/meals/2 on this server! undefined:undefined
+[2023-06-30T02:58:55.714Z] info Cant find /api/v1/meals/2 on this server! undefined:undefined
+[2023-06-30T02:59:05.113Z] info Cant find /api/v1/meals/3 on this server! undefined:undefined
+[2023-06-30T02:59:10.111Z] info Cant find /api/v1/meals/3/1 on this server! undefined:undefined
+[2023-06-30T02:59:15.972Z] info Cant find /api/v1/meals/1/1 on this server! undefined:undefined
+[2023-06-30T02:59:22.922Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:00:50.762Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:01:55.918Z] info Cant find /api/v1/meals/2 on this server! undefined:undefined
+[2023-06-30T03:02:00.876Z] info Cant find /api/v1/meals/3 on this server! undefined:undefined
+[2023-06-30T03:02:21.967Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:19:31.381Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:21:11.220Z] info WHERE parameter "id" has invalid "undefined" value undefined:undefined
+[2023-06-30T03:21:19.899Z] info WHERE parameter "id" has invalid "undefined" value undefined:undefined
+[2023-06-30T03:21:40.761Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:22:04.988Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:28:57.429Z] info jwt expired undefined:undefined
+[2023-06-30T03:29:27.264Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T03:29:57.586Z] info id is not defined undefined:undefined
+[2023-06-30T03:30:20.419Z] info meal is not defined undefined:undefined
+[2023-06-30T03:38:45.774Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T03:40:11.094Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-06-30T03:40:17.987Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:40:25.771Z] info Cant find /api/v1/meals/1/1 on this server! undefined:undefined
+[2023-06-30T03:40:32.034Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:41:16.093Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:45:15.673Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:45:44.865Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:45:45.978Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:46:22.368Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:46:50.460Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:46:51.698Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:47:05.485Z] info Cant find /api/v1/meals/1 on this server! undefined:undefined
+[2023-06-30T03:52:36.516Z] info Unexpected token } in JSON at position 41 undefined:undefined
+[2023-06-30T03:53:21.986Z] info Unexpected token } in JSON at position 41 undefined:undefined
+[2023-06-30T03:53:31.735Z] info notNull Violation: orders.totalPrice cannot be null undefined:undefined
+[2023-06-30T03:54:18.763Z] info notNull Violation: orders.totalPrice cannot be null undefined:undefined
+[2023-06-30T03:54:21.507Z] info notNull Violation: orders.totalPrice cannot be null undefined:undefined
+[2023-06-30T03:57:46.230Z] info null value in column "totalPrice" of relation "orders" violates not-null constraint undefined:undefined
+[2023-06-30T18:12:00.718Z] info jwt expired undefined:undefined
+[2023-06-30T18:12:36.372Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-30T18:13:04.504Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-30T18:13:07.626Z] info invalid input syntax for type integer: "reviews" undefined:undefined
+[2023-06-30T18:13:48.747Z] info id is not defined undefined:undefined
+[2023-06-30T18:14:44.307Z] info id is not defined undefined:undefined
+[2023-06-30T18:15:07.775Z] info restaurants is not associated to restaurants! undefined:undefined
+[2023-06-30T18:16:09.102Z] info id is not defined undefined:undefined
+[2023-06-30T18:16:31.106Z] info id is not defined undefined:undefined
+[2023-06-30T18:17:06.301Z] info restaurants is not associated to restaurants! undefined:undefined
+[2023-06-30T18:17:26.144Z] info id is not defined undefined:undefined
+[2023-06-30T18:17:39.404Z] info id is not defined undefined:undefined
+[2023-06-30T18:18:33.249Z] info Cant find /api/v1/restaurants/reviews/1 on this server! undefined:undefined
+[2023-06-30T18:19:20.767Z] info id is not defined undefined:undefined
+[2023-06-30T18:19:51.341Z] info restaurantId is not defined undefined:undefined
+[2023-06-30T18:20:22.856Z] info review is not defined undefined:undefined
+[2023-06-30T18:20:45.468Z] info review is not defined undefined:undefined
+[2023-06-30T18:21:38.504Z] info review is not defined undefined:undefined
+[2023-06-30T18:21:50.979Z] info review is not defined undefined:undefined
+[2023-06-30T18:22:29.461Z] info review is not defined undefined:undefined
+[2023-06-30T18:23:12.008Z] info id is not defined undefined:undefined
+[2023-06-30T18:23:26.272Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T18:23:40.590Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-06-30T18:23:51.034Z] info restaurantId is not defined undefined:undefined
+[2023-06-30T18:24:03.676Z] info id is not defined undefined:undefined
